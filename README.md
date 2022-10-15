@@ -1,3 +1,1 @@
-# Serdar Biçici - 150210331
-
-This is my repository for BLG101E.
+(MODIFIED BY SERDAR AT 16.10.2022,00:50 
